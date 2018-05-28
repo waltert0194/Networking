@@ -6,7 +6,7 @@ This repository includes programs from CPSC 3600:Networking at Clemson Universit
 Files Included: 
 
 server.c 
-     : A threaded TCP server that can handle multiple clients at once.
+     : A threaded TCP server that can handle multiple clients at once. The output file is given a timestamp.
 
 client.c
      : A client that reads data from a file line by line and sends it
