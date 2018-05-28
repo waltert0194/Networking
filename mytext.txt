@@ -1,0 +1,12 @@
+This is a test file for hw2.
+The program should send the message to the client.
+The text should be read line by line.
+
+This is another line.
+
+
+This is a test file for hw2.
+The program should send the message to the client.
+The text should be read line by line.
+
+This is another line.
